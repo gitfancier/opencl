@@ -1,0 +1,27 @@
+﻿  Preprocessing: HelloWorld.cl
+  Ignoring -TARGETOS option - not supported for current CPU runtime version
+  Setting target instruction set architecture to: Default (Streaming SIMD Extension 4.2 (SSE4.2))
+  OpenCL Intel CPU device was found!
+  Device name: Intel(R) Celeron(R) CPU  N2840  @ 2.16GHz
+  Device version: OpenCL 1.2 (Build 76427)
+  Device vendor: Intel(R) Corporation
+  Device profile: FULL_PROFILE
+  Compilation started
+  Compilation done
+  Linking started
+  Linking done
+  Kernel <helloword> was successfully vectorized
+  Done.
+  helloword info:
+  	Maximum work-group size: 1024
+  	Compiler work-group size: (0, 0, 0)
+  	Local memory size: 0
+  	Preferred multiple of work-group size: 128
+  	Minimum amount of private memory: 128
+  
+  Build succeeded!
+  
+  HelloWorld.cpp
+  HelloWorld.vcxproj -> C:\Users\Administrator\source\opencl\HelloWorld\Debug\HelloWorld.exe
+  HelloWorld.cl
+  已复制         1 个文件。
